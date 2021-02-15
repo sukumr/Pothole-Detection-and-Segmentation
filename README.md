@@ -2,8 +2,8 @@
 ## Result
 
 <p align="center" width="100%">
-  <img align="left" alt="Before" src="demo/1.jpg" height="360px" width="455px"> 
-  <img align="right" alt="After" src="demo/1r.png" height="360px" width="455px">
+  <img align="left" alt="Before" src="demo/1.jpg" height="360px" width="450px"> 
+  <img align="right" alt="After" src="demo/1r.png" height="360px" width="450px">
 </p>  
 
 <p align="center" width="100%">
