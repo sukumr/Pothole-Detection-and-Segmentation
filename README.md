@@ -1,5 +1,5 @@
 # Pothole-Detection-and-Segmentation
-## Demo
+## Result
 
 <p align="center" width="100%">
   <img align="left" alt="Before" src="demo/1.jpg" height="360px" width="455px"> 
