@@ -1,4 +1,6 @@
 # Pothole-Detection-and-Segmentation
+Pothole detection and segmentation using [Mask R-CNN](https://github.com/matterport/Mask_RCNN)
+
 ## Result
 
 <p align="center" width="100%">
@@ -24,3 +26,8 @@
 <!--   <img align="right" alt="After" src="demo/4r.png" height="360px" width="455px"> -->
   <img alt="Result4" src="demo/4r.png" height="380px" width="500px">
 </p>
+
+## Reference
+- Mask R-CNN by [matterport](https://github.com/matterport/Mask_RCNN)
+- [Getting started with Mask R-CNN](https://gilberttanner.com/blog/getting-started-with-mask-rcnn-in-keras) by Gilbert Tanner
+- Images annotation tool [labelme](https://github.com/wkentaro/labelme)
